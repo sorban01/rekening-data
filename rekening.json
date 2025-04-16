@@ -1,9 +1,9 @@
 {
-  "ADMIN 1 OFF": {
+  "ADMINOFF": {
     "account": "ADMIN OFF",
     "name": "ADMIN OFF"
   },
-  "ADMIN 2 OFF": {
+  "ADMINOFF": {
     "account": "ADMIN OFF",
     "name": "ADMIN OFF"
   }
